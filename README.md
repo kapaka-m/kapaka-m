@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 
-<!--
-**kapaka-m/kapaka-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Full-Stack Developer | Backend Developer | Frontend Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build clean, scalable, and user-friendly web applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Learning Management Systems, dashboards, and web applications**
+- 🌱 I’m currently improving my skills in **React, Node.js, Laravel, APIs, and system design**
+- 👯 I’m open to collaborating on **real-world web projects**
+- 💬 Ask me about **JavaScript, PHP, Laravel, React, REST APIs, MySQL**
+- ⚡ Fun fact: I love turning complex ideas into simple, clean interfaces
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Learning Management System
+A complete LMS platform for managing courses, students, instructors, lessons, and admin dashboards.
+
+**Tech:** Laravel / React / MySQL / APIs
+
+---
+
+### 📌 Admin Dashboard
+A responsive dashboard for managing users, analytics, reports, and system settings.
+
+**Tech:** React / Tailwind / REST API
+
+---
+
+### 📌 E-Commerce Website
+A clean e-commerce platform with product management, cart, orders, and admin control.
+
+**Tech:** Laravel / MySQL / Bootstrap
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <b>[Your Name]</b>
+</p>
