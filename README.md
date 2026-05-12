@@ -79,7 +79,10 @@ A clean e-commerce platform with product management, cart, orders, and admin con
 
 <p align="center">
   <a href="https://www.facebook.com/kap0aka1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" />
+  </a>
+  <a href="https://www.instagram.com/kap0aka">
+    <img src="https://img.shields.io/badge/instagram-Connect-blue?style=for-the-badge&logo=instagram" />
   </a>
   <a href="mailto:mhassanen114@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
