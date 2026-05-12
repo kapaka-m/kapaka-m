@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm MOHAMED HASSANIN</h1>
 
 <h3 align="center">
-  Full-Stack Developer | Backend Developer | Frontend Developer | DevOps
+  Full-Stack Developer | Frontend Developer | Backend Developer | DevOps Enthusiast
 </h3>
 
 <p align="center">
-  I build clean, scalable, and user-friendly web applications.
+  I build clean, scalable, and user-friendly web applications, dashboards, and software solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/kapaka-m">
+    <img src="https://komarev.com/ghpvc/?username=kapaka-m&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -13,10 +19,11 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Learning Management Systems, dashboards, and web applications**
-- 🌱 I’m currently improving my skills in **React, Node.js, Laravel, APIs, and system design**
-- 👯 I’m open to collaborating on **real-world web projects**
-- 💬 Ask me about **JavaScript, PHP, Laravel, React, REST APIs, MySQL**
-- ⚡ Fun fact: I love turning complex ideas into simple, clean interfaces
+- 🌱 I’m currently improving my skills in **React, Laravel, Java, APIs, and System Design**
+- 👯 I’m open to collaborating on **real-world web and software projects**
+- 💬 Ask me about **JavaScript, PHP, Laravel, React, REST APIs, MySQL, Java**
+- 🚀 I enjoy building **modern interfaces, admin dashboards, desktop apps, and automation tools**
+- ⚡ Fun fact: I love turning complex ideas into simple, clean, and useful products
 
 ---
 
@@ -29,7 +36,12 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,cpp,c" />
 </p>
 
 ### Database & Tools
@@ -41,24 +53,48 @@
 
 ## 🚀 Featured Projects
 
-### 📌 Learning Management System
-A complete LMS platform for managing courses, students, instructors, lessons, and admin dashboards.
+### 🛒 Yalla-Mart
 
-**Tech:** Laravel / React / MySQL / APIs
+**Yalla-Mart** is an innovative web platform designed to support third-party companies, affiliate marketing models, and independent merchants.  
+The project focuses on creating a simple, flexible, and user-friendly shopping experience.
+
+**Key Features:**
+- Third-party merchant support
+- Clean and simple user interface
+- Product and service presentation
+- Suitable structure for affiliate-based business models
+
+**Tech Stack:** HTML / CSS / JavaScript
 
 ---
 
-### 📌 Admin Dashboard
-A responsive dashboard for managing users, analytics, reports, and system settings.
+### 🛡️ KAPAKA AI Secure Console
 
-**Tech:** React / Tailwind / REST API
+**KAPAKA AI Secure Console** is a futuristic cyberpunk-style AI control console login interface built with pure HTML, CSS, and JavaScript.  
+The project simulates a secure AI operations gateway with a modern animated UI.
+
+**Key Features:**
+- Futuristic cyberpunk design
+- Secure console login interface
+- Animated and interactive UI
+- Built without external frameworks
+
+**Tech Stack:** HTML / CSS / JavaScript
 
 ---
 
-### 📌 E-Commerce Website
-A clean e-commerce platform with product management, cart, orders, and admin control.
+### 🏫 School Dashboard Desktop
 
-**Tech:** Laravel / MySQL / Bootstrap
+**School Dashboard Desktop** is an educational desktop application developed using Java Swing.  
+It helps organize and manage school-related data through a clean and easy-to-use graphical user interface.
+
+**Key Features:**
+- Java Swing desktop interface
+- School data management
+- Clean GUI design
+- Tables and organized data views
+
+**Tech Stack:** Java / Java Swing
 
 ---
 
@@ -79,23 +115,27 @@ A clean e-commerce platform with product management, cart, orders, and admin con
 
 <p align="center">
   <a href="https://www.facebook.com/kap0aka1/">
-    <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kap0aka">
-    <img src="https://img.shields.io/badge/instagram-Connect-red?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="https://wa.me/+998901117660">
-  <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
 
-<a href="https://t.me/kap0aka">
-  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-  <a href="mailto:mhassanen114@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="https://www.instagram.com/kap0aka">
+    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  <a href="https://wa.me/998901117660">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/kap0aka">
+    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="mailto:mhassanen114@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
   <a href="https://github.com/kapaka-m">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
