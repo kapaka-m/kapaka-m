@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm MOHAMED HASSANIN</h1>
 
 <h3 align="center">
-  Full-Stack Developer | Backend Developer | Frontend Developer
+  Full-Stack Developer | Backend Developer | Frontend Developer | DevOps
 </h3>
 
 <p align="center">
@@ -24,12 +24,12 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=java,php,laravel" />
 </p>
 
 ### Database & Tools
@@ -92,5 +92,5 @@ A clean e-commerce platform with product management, cart, orders, and admin con
 ---
 
 <p align="center">
-  ⭐️ From <b>[Your Name]</b>
+  ⭐️ From <b>MOHAMED HASSANIN</b>
 </p>
