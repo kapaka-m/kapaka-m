@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  I build clean, scalable, and user-friendly web applications, dashboards, and software solutions.
+  I build clean, scalable, and user-friendly web applications, dashboards, mobile apps, and software solutions.
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Learning Management Systems, dashboards, and web applications**
-- 🌱 I’m currently improving my skills in **React, Laravel, Java, APIs, and System Design**
-- 👯 I’m open to collaborating on **real-world web and software projects**
-- 💬 Ask me about **JavaScript, PHP, Laravel, React, REST APIs, MySQL, Java**
-- 🚀 I enjoy building **modern interfaces, admin dashboards, desktop apps, and automation tools**
+- 🔭 I’m currently working on **Learning Management Systems, university housing systems, dashboards, and web applications**
+- 🌱 I’m currently improving my skills in **React, Laravel, Flutter, Java, APIs, and System Design**
+- 👯 I’m open to collaborating on **real-world web, mobile, and software projects**
+- 💬 Ask me about **JavaScript, PHP, Laravel, React, REST APIs, MySQL, Java, Flutter**
+- 🚀 I enjoy building **modern interfaces, admin dashboards, desktop apps, mobile apps, and automation tools**
 - ⚡ Fun fact: I love turning complex ideas into simple, clean, and useful products
 
 ---
@@ -39,9 +39,14 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,java" />
 </p>
 
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,dart,cpp,c" />
 </p>
 
 ### Database & Tools
@@ -53,6 +58,42 @@
 
 ## 🚀 Featured Projects
 
+### 🏢 University Housing Management System
+
+A complete university housing management system that includes a web dashboard for universities and dormitories, mobile interfaces built with Flutter, and a secure Laravel API.
+
+**Overview:**  
+The platform provides an integrated solution for managing university dormitories, rooms, floors, students, housing assignments, maintenance tickets, announcements, reports, audit logs, and role-based permissions.
+
+**Main Components:**
+- **Backend:** Laravel 11 REST API + Blade web dashboard
+- **Mobile:** Flutter app with multiple user roles
+- **API Security:** Laravel Sanctum authentication
+- **Admin Panels:** University and dormitory management dashboards
+
+**Roles & Permissions:**
+- **SUPER_ADMIN:** Global supervision dashboard
+- **UNIVERSITY_ADMIN:** Manage dormitories, dorm admins, students, tickets, announcements, reports, settings, and activity logs
+- **DORM_ADMIN:** Manage floors, rooms, students, assignments, tickets, announcements, bulk operations, and student freeze/unfreeze actions
+- **STUDENT:** View assigned room data through the mobile app and API
+
+**Key Features:**
+- Dormitory, floor, and room management
+- Student management and room assignment
+- Move students between rooms
+- Maintenance ticket system with comments
+- Announcements management
+- Import/export students, rooms, and tickets
+- Reports and summary statistics
+- Audit logs and activity feed
+- Admin notifications and theme preferences
+- CSV student import support
+- Feature Flags system
+
+**Tech Stack:** Laravel 11 / PHP 8.2 / Sanctum / Spatie Permissions / Blade / Vite / TailwindCSS / Bootstrap / Flutter / Dio / Provider / GoRouter / MySQL
+
+---
+
 ### 🛒 Yalla-Mart
 
 **Yalla-Mart** is an innovative web platform designed to support third-party companies, affiliate marketing models, and independent merchants.  
@@ -63,21 +104,6 @@ The project focuses on creating a simple, flexible, and user-friendly shopping e
 - Clean and simple user interface
 - Product and service presentation
 - Suitable structure for affiliate-based business models
-
-**Tech Stack:** HTML / CSS / JavaScript
-
----
-
-### 🛡️ KAPAKA AI Secure Console
-
-**KAPAKA AI Secure Console** is a futuristic cyberpunk-style AI control console login interface built with pure HTML, CSS, and JavaScript.  
-The project simulates a secure AI operations gateway with a modern animated UI.
-
-**Key Features:**
-- Futuristic cyberpunk design
-- Secure console login interface
-- Animated and interactive UI
-- Built without external frameworks
 
 **Tech Stack:** HTML / CSS / JavaScript
 
@@ -101,12 +127,15 @@ It helps organize and manage school-related data through a clean and easy-to-use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapaka-m&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapaka-m&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kapaka-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapaka-m&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=kapaka-m&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapaka-m&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
