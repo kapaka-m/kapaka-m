@@ -127,15 +127,7 @@ It helps organize and manage school-related data through a clean and easy-to-use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapaka-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=kapaka-m&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapaka-m&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
